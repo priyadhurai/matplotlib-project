@@ -1,0 +1,8 @@
+EmployeeID,Name,Age,Gender,Department,Salary,Bonus,JoinDate,Location,Join_Year,Join_Month
+101,John,28,M,IT,50000.0,5000.0,2020-01-15,Bangalore,2020,1
+102,Anna,32,F,HR,62000.0,4000.0,2019-03-22,Chennai,2019,3
+103,Michael,26,M,Finance,45000.0,0.0,2021-07-10,Delhi,2021,7
+104,Sophia,45,F,Marketing,75000.0,8000.0,2016-11-05,Mumbai,2016,11
+105,David,38,M,IT,68000.0,6000.0,2018-05-14,Bangalore,2018,5
+106,Linda,29,F,HR,62000.0,3000.0,2022-09-01,Chennai,2022,9
+107,Kevin,41,M,Finance,72000.0,7000.0,2017-04-19,Delhi,2017,4
